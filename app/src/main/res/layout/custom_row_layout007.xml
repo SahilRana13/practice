@@ -15,7 +15,7 @@
         android:layout_marginLeft="20dp"/>
 
     <TextView
-        android:id="@+id/CustomTitle"
+        android:id="@+id/CustomRating"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:text="Rating"
@@ -25,7 +25,7 @@
         android:layout_marginLeft="20dp"/>
 
     <TextView
-        android:id="@+id/CustomTitle"
+        android:id="@+id/CustomDescription"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:text="Desciption"
